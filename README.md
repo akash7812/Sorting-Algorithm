@@ -66,8 +66,10 @@ print(list_of_nums)
 ```
 
 ## Output:
-![output](./selectionoutput.png)
-![output](./insertoutput.png)
+![output](https://github.com/akash7812/Sorting-Algorithm/assets/146819826/1c912b0c-feed-40d2-a931-e6ada92a7469)
+
+![output](https://github.com/akash7812/Sorting-Algorithm/assets/146819826/1572a4c3-e423-476f-b0cd-5a02b6c487ff)
+
 
 
 ## Result:
